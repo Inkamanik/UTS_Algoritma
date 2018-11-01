@@ -74,7 +74,7 @@ int main ()
      cout << "Masukan nilai N: ";
      cin >> N;
 
-     Batas = N + 140;
+     Batas = N + 100;
      X = 20;
      T = N;
 
