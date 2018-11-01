@@ -55,7 +55,7 @@ hasil (b) :
 
 **Alur Program**
 1. Deklarasikan variabel input `N,X,T, Batas;` sebagai inputnya.
-2. Masukan nilai N yaitu 2 angka terakhir NIM saya, maka N adalah 05 dan batasnya adalah 145 dari hasil penjumlahan N + 140
+2. Masukan nilai N yaitu 2 angka terakhir NIM saya, maka N adalah 05 dan batasnya adalah 105 dari hasil penjumlahan N + 100
 3. Masukan variabel X dan T. X = 20 dan T = 05 (Dari N)
 4. Dimana T kurang dari sama dengan batas, berarti tidak boleh melebihi batas
 5. Kemudian menghitung `X = X + 10;` dan hasilnya 30 kemudian menghitung `T = T + X;`, hasilnya adalah 35.
